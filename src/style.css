@@ -1,0 +1,20 @@
+#title {
+
+}
+.timer {
+    font-size: 30px;
+    color: red;
+    font-weight: 600px;
+}
+button{
+    height: 40px;
+    width: 150px;
+    font-weight: 700;
+    font-size: 20px;
+}
+img {
+    height: 250px;
+    width: 350px;
+}
+button:hover{
+background-color: rgb(116, 211, 116);}
